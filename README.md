@@ -2,7 +2,7 @@
 
 Hello devs, new project on the bank theme.
 
-Detailed Front End in Behance:![behance](https://img.shields.io/badge/-behance-2980b9?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/gallery/109898395/Design-Bank)](https://www.behance.net/gallery/109898395/Design-Bank)
+Detailed Front End in Behance: [![behance](https://img.shields.io/badge/-behance-2980b9?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/gallery/109898395/Design-Bank)](https://www.behance.net/gallery/109898395/Design-Bank)
 
 
 ## Image Ilustration
